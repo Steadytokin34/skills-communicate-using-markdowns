@@ -1,1 +1,2 @@
-#6 Index.md
+# Index
+idk why this isnt working
